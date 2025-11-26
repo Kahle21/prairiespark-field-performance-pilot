@@ -6,7 +6,7 @@ grain farm in Saskatchewan.
 
 ## What’s here
 
-- `Documents/BRD_PrairieSpark_Field_Performance_KahleSalisbury.pdf` – full BRD
+- `Documents/BRD_PrairieSpark_Field_Performance_KahleSalisbury.pdf` – full Business Requirements Document
 - `data/` – (coming soon) anonymized field–year–crop dataset
 - `analysis/` – (coming soon) KPI calculations / dashboard files
 
