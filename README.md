@@ -6,6 +6,9 @@ This project analyzes anonymized, real field-level yield data from a 3,500-acre 
 - Rotation effects (Previous crop → Current crop)
 - Data driven recommendations
 
+## Demo Video
+https://youtu.be/6Q95jxL_7iQ
+
 ## Data
 **File:** `data/public_field_year.csv`  
 **Note:** Data is anonymized (Land Location IDs replaced with `F###`), but reflects real operational yield history.
